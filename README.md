@@ -5,3 +5,7 @@
 https://www.youtube.com/watch?v=m_2irzgW7x4
 
 https://www.goodreads.com/en/book/show/57933306
+
+
+
+https://github.com/maria-antoniak/goodreads-scraper
